@@ -1,0 +1,16 @@
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\bin\Debug\netcoreapp3.1\RabbitMQ_Consumer.exe
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\obj\Debug\netcoreapp3.1\RabbitMQ_Consumer.csprojAssemblyReference.cache
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\obj\Debug\netcoreapp3.1\RabbitMQ_Consumer.AssemblyInfoInputs.cache
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\obj\Debug\netcoreapp3.1\RabbitMQ_Consumer.AssemblyInfo.cs
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\bin\Debug\netcoreapp3.1\RabbitMQ_Consumer.deps.json
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\bin\Debug\netcoreapp3.1\RabbitMQ_Consumer.runtimeconfig.json
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\bin\Debug\netcoreapp3.1\RabbitMQ_Consumer.runtimeconfig.dev.json
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\bin\Debug\netcoreapp3.1\RabbitMQ_Consumer.dll
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\bin\Debug\netcoreapp3.1\RabbitMQ_Consumer.pdb
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\obj\Debug\netcoreapp3.1\RabbitMQ_Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\obj\Debug\netcoreapp3.1\RabbitMQ_Consumer.csproj.CopyComplete
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\obj\Debug\netcoreapp3.1\RabbitMQ_Consumer.dll
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\obj\Debug\netcoreapp3.1\RabbitMQ_Consumer.pdb
+C:\Users\Munja\source\repos\RabbitMQ_Consumer\RabbitMQ_Consumer\obj\Debug\netcoreapp3.1\RabbitMQ_Consumer.genruntimeconfig.cache
